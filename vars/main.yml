@@ -1,0 +1,27 @@
+---
+# vars file for test
+
+guests:
+- user1
+- user2
+- user3
+- user4
+
+webclients:
+- user5
+- user6
+- user7
+
+staff:
+- user8
+- user9
+
+revoke:
+- user1
+- user2
+- user3
+- user4
+- user5
+- user6
+- user7
+
